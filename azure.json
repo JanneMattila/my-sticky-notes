@@ -1,14 +1,28 @@
 [
   {
-    "id": "7727162b-d0297f3a-5a6e2bc4-52e07de2",
+    "id": "f2205d37-7f4800e1-37bda16f-796c6b36",
+    "text": "iPaaS",
+    "link": "azure/ipaas.json",
+    "color": "lightyellow",
+    "position": {
+      "x": 145,
+      "y": 115.5,
+      "z": 100,
+      "rotation": -4
+    },
+    "width": 100,
+    "height": 100
+  },
+  {
+    "id": "2ae54e67-73698a1b-bd90e947-44d2d215",
     "text": "Azure notes",
     "link": "",
     "color": "lightblue",
     "position": {
-      "x": 208.5,
-      "y": -14.75,
+      "x": 44,
+      "y": -73.5,
       "z": 100,
-      "rotation": -1
+      "rotation": 0
     },
     "width": 187,
     "height": 100
